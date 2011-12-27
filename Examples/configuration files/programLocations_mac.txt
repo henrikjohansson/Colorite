@@ -1,0 +1,5 @@
+/Users/henrik/Documents/Colorite/imageDataTemplate.xml
+/Users/henrik/Documents/Colorite/imageData.xml
+/Users/henrik/Documents/Colorite/Find
+/opt/local/bin/
+/Users/henrik/Documents/Colorite/

@@ -1,0 +1,10 @@
+To install OpenCV and libxml2 on Mac, please follow the instructions below:
+
+MacPorts
+MacPorts utility is a command-line utility that’s used to automatically download, compile and install software needed by Colorite. MacPorts requires that XCode, Apples tool for developers, is installed. XCode is included on the Mac OS X installation DVD and it’s also available in the App Store for $5. More information about the installation of MacPorts is found at http://www.macports.org/
+
+OpenCV
+To find the target in the reference image, the OpenCV framework for computer vision is used. Colorite uses the functionality of several core libraries from the framework. Install OpenCV in a terminal window with the following command: sudo ports install opencv
+
+Libxml2
+Colorite uses the library Libxml2 to create and parse XML during the matching step. Install OpenCV in a terminal window with the following command: sudo ports install libxml2

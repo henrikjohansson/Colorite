@@ -1,0 +1,7 @@
+/Users/henrik/Documents/Colorite/Nelly05-02.tif
+/Users/henrik/Documents/Colorite/target05-02.png
+/Users/henrik/Documents/Colorite/target05-02.xml
+/Users/henrik/Documents/Colorite/output.png
+/Users/henrik/Documents/Colorite/qualityLevel1.xml
+noGUI
+useBatch

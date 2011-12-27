@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><imageQuality>
+  <information>
+    <name>Quality Level 1</name>
+    <date>2010-10-12</date>
+  </information>
+  <tonalCapture>
+    <gainModulation>
+      <L95-L90>
+        <min>0.8</min>
+        <max>1.1</max>
+      </L95-L90>
+      <L90-L85>
+        <min>0.8</min>
+        <max>1.1</max>
+      </L90-L85>
+      <L85-L25>
+        <min>0.6</min>
+        <max>1.4</max>
+      </L85-L25>
+      <L85-10>
+        <min>0.1</min>
+        <max>2</max>
+      </L85-10>
+    </gainModulation>
+    <delta-e>
+      <max>4</max>
+    </delta-e>
+    <delta-L>
+      <max>4</max>
+    </delta-L>
+  </tonalCapture>
+  <colorAccuracy>
+    <delta-e>
+      <mean>12</mean>
+      <max>25</max>
+    </delta-e>
+    <delta-c>
+      <max>4</max>
+    </delta-c>
+  </colorAccuracy>
+  <noise>5</noise>
+  <resolution/>
+</imageQuality>

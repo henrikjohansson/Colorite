@@ -1,0 +1,7 @@
+C:\Programmering\Colorite\Nelly05-02.tif
+C:\Programmering\Colorite\target05-02.png
+C:\Programmering\Colorite\target05-02.xml
+C:\Programmering\Colorite\output.png
+C:\Programmering\Colorite\qualityLevel1.xml
+useGUI
+useBatch

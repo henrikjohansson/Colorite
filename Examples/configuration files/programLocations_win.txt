@@ -1,0 +1,5 @@
+C:\Programmering\Matchning\imageDataTemplate.xml
+C:\Programmering\Matchning\imageData.xml
+C:\Programmering\Projects\VS\find3\Release\Find.exe
+C:\Program Files\ImageMagick-6.6.3-Q16\
+C:\Programmering\Matchning\

@@ -1,0 +1,5 @@
+This is the source code for the Find-program that is used to identify the target in the image. For Windows, MS Visual Studio Express 2010 was used for the development, hence the additional files. 
+
+As written in the manual, Find uses the OpenCV framework. Please follow the instructions in the manual to install OpenCV.
+
+If no changes are needed in the identification process, it should be possible to use the contain find.exe. For this case, the dll-files in the Find-directory must be used.
