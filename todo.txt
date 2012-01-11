@@ -1,0 +1,22 @@
+Colorite To-Do
+
+This is a list of suggestions and possible improvements for Colorite.
+
+- Check behavior with filenames that conatin unusual characters
+- Check the behavior when target data are missing in the XML.
+- Modify the image matching component to make it possible to select between the original target image or an down-sampled version. This might result in slightly lower computation times.
+- Make it possible to define which patches that are included in specific measurements
+- Separate tags for color and grayscale patches in the XML.
+- Colorite computes the noise in the L-channel. Other software use the composite Y-channel for this. There's probably a relationshio between these measurements. One idea is to determine this relationship, another is to allow for computations using the Y-channel.
+- Currently, Colorite requires that the target iamge is sabved as LAB. It would be great if the software also could use RGB images and convert them to LAB.
+- Currently, Colorite requires that imageData.xml is pre-populated with empty tags for each measurements. Natureally, a better solution would be if tags a created only when needed.
+- Some targets have named patches, e.g. ColorChecker SG. it would be nice if these named could be stored in the XML-files
+- Add JavaDoc
+- Check time since last measurement of the real-world color values
+- Compute scaling factor for 1:1 images in a given resolution
+- Possibility to specify output filenames. Possiblity to name the output with regard to the input
+- Better exception handling. One example is when is the image is in grayscale.
+- Automatic check that the XML-input is correct
+- Better handling of default directories
+- Add support for DNG
+- 
