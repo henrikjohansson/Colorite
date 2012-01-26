@@ -2,4 +2,4 @@ This is the source code for the Find-program that is used to identify the target
 
 As written in the manual, Find uses the OpenCV framework. Please follow the instructions in the manual to install OpenCV.
 
-If no changes are needed in the identification process, it should be possible to use the contain Find. In some cases, the component that performs the image matching is not recognized as a program. If this is case, apply the following command in a terminal window (standing in the Colorite folder): chmod 755 Find
+If no changes are needed in the identification process, it should be possible to use the contain Find executable. In some cases, the component that performs the image matching is not recognized as a program. If this is case, apply the following command in a terminal window (standing in the Colorite folder): chmod 755 Find
